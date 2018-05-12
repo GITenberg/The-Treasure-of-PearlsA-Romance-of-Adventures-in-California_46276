@@ -26,6 +26,8 @@ creator:
     - http://en.wikipedia.org/wiki/Gustave_Aimard
     - http://fr.wikipedia.org/wiki/Gustave_Aimard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46276#The-Treasure-of-PearlsA-Romance-of-Adventures-in-California
 gutenberg_issued: '2014-07-14'
 gutenberg_type: Text
 identifiers:
